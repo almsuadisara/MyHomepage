@@ -1,0 +1,5 @@
+Comparison between initial commit and feature implementation:
+- Added a navigation bar with links to Home, About, and Contact.
+
+Comparison between buggy version and fixed version:
+- Corrected a typo in the heading ("homepage" -> "home page").
